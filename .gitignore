@@ -1,0 +1,4 @@
+.vscode
+pipfile.lock
+config.py
+__pycache__
